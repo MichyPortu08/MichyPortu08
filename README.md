@@ -6,6 +6,11 @@ Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all
 - **Python**, **C++**, **JavaScript**, **SQL**  
 - Conoscenze parziali di **C** e **Assembly**  
 - Conoscenza di base di **HTML** e **CSS**
+### 🧰 Tecnologie e strumenti
+- **Embedded & elettronica**: Arduino, ESP32, sensori, automazione  
+- **Dev & scripting**: Git, Bash, Linux, VS Code, Arduino IDE  
+- **Data & modeling**: Matplotlib, NumPy,  SpiceyPy
+- - **Cybersecurity tools**: Kali Linux, Nmap, Nikto, Gobuster, Hydra  
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
