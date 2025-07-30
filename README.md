@@ -15,15 +15,20 @@ Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all
 - **Embedded & elettronica**: Arduino, ESP32, sensori, automazione  
 - **Dev & scripting**: Git, Bash, Linux, VS Code, Arduino IDE  
 - **Data & modeling**: Matplotlib, NumPy,  SpiceyPy
-- **Cybersecurity tools**: Kali Linux, Nmap, Nikto, Gobuster, Hydra  
+- **Web e Networking**: FLASK, FLASK CORS, Websocket
+- **Cybersecurity tools**: Kali Linux, Nmap, Nikto, Gobuster, Hydra
+
 [![Arduino](https://img.shields.io/badge/Arduino-lightgrey?style=for-the-badge&logo=arduino&logoColor=blue)](https://www.arduino.cc)  
 ![Flask](https://img.shields.io/badge/Flask-Web_Framework-black?style=for-the-badge&logo=flask)
 ![WebSocket](https://img.shields.io/badge/WebSocket-RealTime-lightgrey?style=for-the-badge)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-DarkBlue?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)  
 [![Nmap](https://img.shields.io/badge/Nmap-NetworkScan-red?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
 ### 🛠️ Progetti recenti
-- 🤖 **Rover scolastico**  
-  Ho curato **software ed elettronica** di un rover realizzato a scuola, programmando in **C++** su **Arduino**.
+- 🤖 WALL-E  
+Ho curato **software ed elettronica** di un rover realizzato a scuola, programmando in **C++** su **Arduino**.  
+👉 [Leggi l'articolo sul progetto](https://www.liceodazeglio.edu.it/2025/05/epopea-di-una-creazione/)
+
+  
 
 - 🌌 **Modellazione di orbite**  
   Con **Python**, ho realizzato una serie di **simulazioni e rappresentazioni grafiche** di orbite, unendo fisica e programmazione.
