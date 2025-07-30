@@ -1,8 +1,7 @@
-## Hi there 👋
+## Ciao a tutti, mi chiamo Michele Antonio Portulano 
 
-<!--
-**MichyPortu08/MichyPortu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Ho 17 anni e sono attualmente uno studente delle scuole superiori con una grande passione per la tecnologia e l'innovazione.
+Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all’elettronica, alla meccatronica e alla fisica, unendo teoria e pratica attraverso progetti scolastici e personali.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
