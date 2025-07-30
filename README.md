@@ -2,6 +2,10 @@
 
 Ho 17 anni e sono attualmente uno studente delle scuole superiori con una grande passione per la tecnologia e l'innovazione.
 Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all’elettronica, alla meccatronica e alla fisica, unendo teoria e pratica attraverso progetti scolastici e personali.
+### 💻 Linguaggi di programmazione
+- **Python**, **C++**, **JavaScript**, **SQL**  
+- Conoscenze parziali di **C** e **Assembly**  
+- Conoscenza di base di **HTML** e **CSS**
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
