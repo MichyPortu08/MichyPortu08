@@ -6,18 +6,36 @@ Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all
 - **Python**, **C++**, **JavaScript**, **SQL**  
 - Conoscenze parziali di **C** e **Assembly**  
 - Conoscenza di base di **HTML** e **CSS**
-### 🧰 Tecnologie e strumenti
-- **Embedded & elettronica**: Arduino, ESP32, sensori, automazione  
-- **Dev & scripting**: Git, Bash, Linux, VS Code, Arduino IDE  
-- **Data & modeling**: Matplotlib, NumPy,  SpiceyPy
-- **Cybersecurity tools**: Kali Linux, Nmap, Nikto, Gobuster, Hydra  
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue?style=for-the-badge&logo=sqlite&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-
+### 🧰 Tecnologie e strumenti
+- **Embedded & elettronica**: Arduino, ESP32, sensori, automazione  
+- **Dev & scripting**: Git, Bash, Linux, VS Code, Arduino IDE  
+- **Data & modeling**: Matplotlib, NumPy,  SpiceyPy
+- **Cybersecurity tools**: Kali Linux, Nmap, Nikto, Gobuster, Hydra  
 [![Arduino](https://img.shields.io/badge/Arduino-lightgrey?style=for-the-badge&logo=arduino&logoColor=blue)](https://www.arduino.cc)  
+![Flask](https://img.shields.io/badge/Flask-Web_Framework-black?style=for-the-badge&logo=flask)
+![WebSocket](https://img.shields.io/badge/WebSocket-RealTime-lightgrey?style=for-the-badge)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-DarkBlue?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)  
 [![Nmap](https://img.shields.io/badge/Nmap-NetworkScan-red?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
+### 🛠️ Progetti recenti
+- 🤖 **Rover scolastico**  
+  Ho curato **software ed elettronica** di un rover realizzato a scuola, programmando in **C++** su **Arduino**.
+
+- 🌌 **Modellazione di orbite**  
+  Con **Python**, ho realizzato una serie di **simulazioni e rappresentazioni grafiche** di orbite, unendo fisica e programmazione.
+
+- 🔢 **Studio computazionale della congettura di Collatz**  
+  Sto sviluppando una rappresentazione interattiva del problema, analizzando dinamiche numeriche e cicli ricorsivi con Python.
+
+- 🛡️ **Penetration Testing Tool**  
+  Ho creato uno **script Bash interattivo** per Kali Linux:  
+  *Kali Linux Security Testing Tool* è uno script automatizzato per test di penetrazione su reti autorizzate. Include:  
+  - Scansione rete/host con **Nmap**  
+  - Enumerazione web con **Nikto** e **Gobuster**  
+  - Brute-force con **Hydra**  
+  - Risultati salvati in cartelle con timestamp
 
