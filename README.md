@@ -10,10 +10,11 @@ Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all
 - **Embedded & elettronica**: Arduino, ESP32, sensori, automazione  
 - **Dev & scripting**: Git, Bash, Linux, VS Code, Arduino IDE  
 - **Data & modeling**: Matplotlib, NumPy,  SpiceyPy
-- - **Cybersecurity tools**: Kali Linux, Nmap, Nikto, Gobuster, Hydra  
+- **Cybersecurity tools**: Kali Linux, Nmap, Nikto, Gobuster, Hydra  
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue?style=for-the-badge&logo=sqlite&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
 [![Arduino](https://img.shields.io/badge/Arduino-lightgrey?style=for-the-badge&logo=arduino&logoColor=blue)](https://www.arduino.cc)  
