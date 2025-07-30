@@ -32,6 +32,12 @@ Ho curato **software ed elettronica** di un rover realizzato a scuola, programma
 
 - 🌌 **Modellazione di orbite**  
   Con **Python**, ho realizzato una serie di **simulazioni e rappresentazioni grafiche** di orbite, unendo fisica e programmazione.
+- ### 🗄️ Database  
+  Sono in grado di progettare e sviluppare **database articolati**, strutturati in base alle esigenze funzionali di un'applicazione.  
+  In particolare, durante l’[hackathon *Telemedicine-portal*](https://github.com/achenio/Telemedicine-portal), ho realizzato un database per la **gestione di utenze, chat e supporto ai pagamenti**.  
+
+  [![GitHub - Telemedicine-portal](https://img.shields.io/badge/Repo-Telemedicine--portal-blue?style=flat-square&logo=github)](https://github.com/achenio/Telemedicine-portal)
+
 
 - 🔢 **Studio computazionale della congettura di Collatz**  
   Sto sviluppando una rappresentazione interattiva del problema, analizzando dinamiche numeriche e cicli ricorsivi con Python.
