@@ -1,6 +1,6 @@
 ## Ciao a tutti, mi chiamo Michele Antonio Portulano 
 
-Ho 17 anni e sono attualmente uno studente delle scuole superiori con una grande passione per la tecnologia e l'innovazione.
+Ho 18 anni e sono attualmente uno studente delle scuole superiori con una grande passione per la tecnologia e l'innovazione.
 Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all’elettronica, alla meccatronica e alla fisica, unendo teoria e pratica attraverso progetti scolastici e personali.
 ### 💻 Linguaggi di programmazione
 - **Python**, **C++**, **JavaScript**, **SQL**  
