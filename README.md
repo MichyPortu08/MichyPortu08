@@ -12,7 +12,8 @@ Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 ### 🧰 Tecnologie e strumenti
 - **Embedded & elettronica**: Arduino, ESP32, sensori, automazione  
-- **Dev & scripting**: Git, Bash, Linux, VS Code, Arduino IDE  
+- **Dev & scripting**: Git, Bash, Linux, VS Code, Arduino IDE
+- **OS**: Debian, Ubuntu Server, Arch linux 
 - **Data & modeling**: Matplotlib, NumPy,  SpiceyPy
 - **Web e Networking**: FLASK, FLASK CORS, Websocket, Gunicorn, NGINX, Fail2ban, Certbot, Certificate SSL
 - **Cybersecurity tools**: Kali Linux, Nmap, Nikto, Gobuster, Hydra
