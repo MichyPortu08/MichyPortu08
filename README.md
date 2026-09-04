@@ -4,8 +4,7 @@ Ho 18 anni e sono attualmente uno studente delle scuole superiori con una grande
 Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all’elettronica, alla meccatronica e alla fisica, unendo teoria e pratica attraverso progetti scolastici e personali.
 ### 💻 Linguaggi di programmazione
 - **Python**, **C++**, **JavaScript**, **SQL**  
-- Conoscenze parziali di **C** e **Assembly**  
-- Conoscenza di base di **HTML** e **CSS**
+- Conoscenza di base di **C**, **HTML** e **CSS**
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
@@ -15,13 +14,13 @@ Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all
 - **Embedded & elettronica**: Arduino, ESP32, sensori, automazione  
 - **Dev & scripting**: Git, Bash, Linux, VS Code, Arduino IDE  
 - **Data & modeling**: Matplotlib, NumPy,  SpiceyPy
-- **Web e Networking**: FLASK, FLASK CORS, Websocket
+- **Web e Networking**: FLASK, FLASK CORS, Websocket, Gunicorn, NGINX, Fail2ban, Certbot, Certificate SSL
 - **Cybersecurity tools**: Kali Linux, Nmap, Nikto, Gobuster, Hydra
 
 [![Arduino](https://img.shields.io/badge/Arduino-lightgrey?style=for-the-badge&logo=arduino&logoColor=blue)](https://www.arduino.cc)  
 ![Flask](https://img.shields.io/badge/Flask-Web_Framework-black?style=for-the-badge&logo=flask)
 ![WebSocket](https://img.shields.io/badge/WebSocket-RealTime-lightgrey?style=for-the-badge)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-DarkBlue?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![Nmap](https://img.shields.io/badge/Nmap-NetworkScan-red?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
 ### 🛠️ Progetti recenti
 - 🤖 WALL-E  
