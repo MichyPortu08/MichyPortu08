@@ -35,11 +35,11 @@ Attualmente, i miei interessi accademici sono orientati alla fisica computaziona
 - 🤖 **WALL-E**  
   Ho curato **software ed elettronica** di un rover realizzato a scuola, programmando in **C++** su **Arduino**.  
   👉 [Leggi l'articolo sul progetto](https://www.liceodazeglio.edu.it/2025/05/epopea-di-una-creazione/)
-      [![GitHub - WALL-E](https://img.shields.io/badge/Repo-Telemedicine--portal-blue?style=flat-square&logo=github)](https://github.com/MichyPortu08/Wall-E)
+      [![GitHub - WALL-E](https://img.shields.io/badge/Repo-WALL--E-blue?style=flat-square&logo=github)](https://github.com/MichyPortu08/Wall-E)
 
 - 🌌 **Modellazione di orbite**  
   Con **Python**, ho realizzato una serie di **simulazioni e rappresentazioni grafiche** di orbite, unendo fisica e programmazione.
-    [![GitHub - Satelliti medicei](https://img.shields.io/badge/Repo-Telemedicine--portal-blue?style=flat-square&logo=github)](https://github.com/MichyPortu08/Orbite-satelliti-medicei-github)
+    [![GitHub - Satelliti medicei](https://img.shields.io/badge/Repo-Satelliti--medicei-blue?style=flat-square&logo=github)](https://github.com/MichyPortu08/Orbite-satelliti-medicei-github)
 
 - 🗄️ **Database & Gestionali**  
   Progettazione e sviluppo di **database articolati** in base alle esigenze funzionali. In particolare, durante l’[hackathon *Telemedicine-portal*](https://github.com/achenio/Telemedicine-portal), ho realizzato il database per la **gestione di utenze, chat e supporto ai pagamenti**.  
