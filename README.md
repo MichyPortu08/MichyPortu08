@@ -35,7 +35,7 @@ Attualmente, i miei interessi accademici sono orientati alla fisica computaziona
 - 🤖 **WALL-E**  
   Ho curato **software ed elettronica** di un rover realizzato a scuola, programmando in **C++** su **Arduino**.  
   👉 [Leggi l'articolo sul progetto](https://www.liceodazeglio.edu.it/2025/05/epopea-di-una-creazione/)
-  [![GitHub - WALL-E](https://img.shields.io/badge/Repo-Telemedicine--portal-blue?style=flat-square&logo=github)](https://github.com/MichyPortu08/Wall-E)
+      [![GitHub - WALL-E](https://img.shields.io/badge/Repo-Telemedicine--portal-blue?style=flat-square&logo=github)](https://github.com/MichyPortu08/Wall-E)
 
 - 🌌 **Modellazione di orbite**  
   Con **Python**, ho realizzato una serie di **simulazioni e rappresentazioni grafiche** di orbite, unendo fisica e programmazione.
