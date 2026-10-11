@@ -1,7 +1,8 @@
 ## Ciao a tutti, mi chiamo Michele Antonio Portulano 👋
 
 Ho 18 anni e sono uno **studente di Ingegneria Fisica presso il Politecnico di Torino**. 
-Ho una grande passione per la tecnologia, l'innovazione e la scienza. Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all’elettronica, alla meccatronica e alla fisica pratica, unendo teoria e sviluppo attraverso progetti personali e scolastici. 
+Ho una grande passione per la tecnologia, l'innovazione e la scienza.
+Nel tempo ho sviluppato una solida conoscenza della programmazione applicata all’elettronica, alla meccatronica e alla fisica, unendo teoria e sviluppo attraverso progetti personali e scolastici. 
 Attualmente, i miei interessi accademici sono orientati alla fisica computazionale, alla modellizzazione dei fenomeni fisici e all'applicazione del codice per la risoluzione di problemi scientifici complessi.
 👉 *Alla fine della presentazione troverai alcuni [lavori significativi](#️-progetti-recenti) per la mia crescita personale.*
 
