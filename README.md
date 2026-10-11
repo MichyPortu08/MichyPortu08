@@ -13,7 +13,6 @@ Attualmente, i miei interessi accademici sono orientati alla fisica computaziona
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue?style=for-the-badge&logo=sqlite&logoColor=white)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
 ### 🧰 Tecnologie e strumenti
 - **Embedded & elettronica**: Arduino, ESP32, sensori, automazione  
@@ -21,7 +20,7 @@ Attualmente, i miei interessi accademici sono orientati alla fisica computaziona
 - **OS**: Debian, Ubuntu Server, Arch linux 
 - **Data & modeling**: Matplotlib, NumPy,  SpiceyPy
 - **Web e Networking**: FLASK, FLASK CORS, Websocket, Gunicorn, NGINX, Fail2ban, Certbot, Certificate SSL
-- **Cybersecurity tools**: Kali Linux, Nmap, Nikto, Gobuster, Hydra
+- **Cybersecurity tools**: Kali Linux, Nmap
 
 [![Arduino](https://img.shields.io/badge/Arduino-lightgrey?style=for-the-badge&logo=arduino&logoColor=blue)](https://www.arduino.cc)  
 ![Flask](https://img.shields.io/badge/Flask-Web_Framework-black?style=for-the-badge&logo=flask)
