@@ -7,8 +7,8 @@ Attualmente, i miei interessi accademici sono orientati alla fisica computaziona
 👉 *Alla fine della presentazione troverai alcuni [lavori significativi](#️-progetti-recenti) per la mia crescita personale.*
 
 ### 💻 Linguaggi di programmazione
-- **Python**, **C++**, **JavaScript**, **SQL**  
-- Conoscenza di base di **C**, **HTML** e **CSS**
+- **Python**, **C++**, **SQL**  
+- Conoscenza di base di **Javascript**, **HTML** e **CSS**
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
